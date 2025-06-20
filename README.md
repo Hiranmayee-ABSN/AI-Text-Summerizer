@@ -1,5 +1,5 @@
 
-#AI Text Summerizer
+# AI Text Summerizer
 A simple and elegant web app built using **Streamlit** that allows users to:
 - Summarize long articles or paragraphs using a **pre-trained Transformer model**
 - Optionally translate the summary to a different language (e.g., Telugu, Hindi, French)
